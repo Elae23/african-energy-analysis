@@ -12,7 +12,7 @@ This is a work-in-progress. I am currently:
 - Planning to create simple charts on access rates
 
 ## What I Plan To Do Next
-- [ ] Download World Bank data on electricity access (%)
+- [X] Downloaded World Bank data 
 - [ ] Clean data in Excel
 - [ ] Create 2-3 charts showing Nigeria vs 3 other countries
 - [ ] Write a short 1-paragraph insight
